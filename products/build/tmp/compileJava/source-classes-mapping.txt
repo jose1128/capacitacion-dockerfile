@@ -1,0 +1,26 @@
+com/back/products/services/interfaces/IProductService.java
+ com.back.products.services.interfaces.IProductService
+com/back/products/services/ProductService.java
+ com.back.products.services.ProductService
+com/back/products/services/CategoryService.java
+ com.back.products.services.CategoryService
+com/back/products/controllers/ProductController.java
+ com.back.products.controllers.ProductController
+com/back/products/models/entities/Product.java
+ com.back.products.models.entities.Product
+com/back/products/repositories/CategoryRepository.java
+ com.back.products.repositories.CategoryRepository
+com/back/products/controllers/CategoryController.java
+ com.back.products.controllers.CategoryController
+com/back/products/models/DTO/CategoryDTO.java
+ com.back.products.models.DTO.CategoryDTO
+com/back/products/services/interfaces/ICategoryService.java
+ com.back.products.services.interfaces.ICategoryService
+com/back/products/ProductsApplication.java
+ com.back.products.ProductsApplication
+com/back/products/repositories/ProductRepository.java
+ com.back.products.repositories.ProductRepository
+com/back/products/models/entities/Category.java
+ com.back.products.models.entities.Category
+com/back/products/models/DTO/ProductDTO.java
+ com.back.products.models.DTO.ProductDTO
