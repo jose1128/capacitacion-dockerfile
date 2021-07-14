@@ -1,2 +1,0 @@
-com/back/products/ProductsApplicationTests.java
- com.back.products.ProductsApplicationTests
